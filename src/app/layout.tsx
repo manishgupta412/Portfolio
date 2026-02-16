@@ -13,19 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dat Pham | Software Engineer",
+  title: "Manish Gupta | Software Engineer",
   description: "Explore my software engineering portfolio and projects.",
   openGraph: {
-    title: "Dat Pham | Software Engineer",
+    title: "Manish Gupta | Software Engineer",
     description: "Explore my software engineering portfolio and projects.",
     url: "https://datpham.dev",
-    siteName: "Dat Pham Portfolio",
+    siteName: "Manish Gupta Portfolio",
     images: [
       {
         url: "/preview.png", 
         width: 1200,
         height: 630,
-        alt: "Dat Pham Portfolio Preview",
+        alt: "Manish Gupta Portfolio Preview",
       },
     ],
     locale: "en_US",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dat Pham | Software Engineer",
+    title: "Manish Gupta | Software Engineer",
     description: "Explore my software engineering portfolio and projects.",
     images: ["/preview.png"],
   },
